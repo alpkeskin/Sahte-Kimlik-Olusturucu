@@ -1,7 +1,7 @@
 # Sahte-Kimlik-Olusturucu
 Türkçe Sahte Kişi/Kimlik/İsim Oluşturucu. https://www.fakenamegenerator.com/ ve https://www.elfqrin.com/fakeid.php sitelerinin yandan yemiş python tabanlı türkçe versiyonu.
 
-:bangbang: Bu araç, algoritmalardan bilgi üretir, fiili olarak düzenlenmiş belgeler veya gerçek belgelerin faks, numune veya örneklerini üretmez. Sadece eğlence ve belki eğitim amaçlıdır ! :bangbang:
+:bangbang: Bu araç, random metot ile bilgi üretir, fiili olarak düzenlenmiş belgeler veya gerçek belgelerin faks, numune veya örneklerini üretmez. Sadece eğlence ve belki eğitim amaçlıdır ! :bangbang:
 
 ## İndirme :
 `git clone https://github.com/alpkeskin/Sahte-Kimlik-Olusturucu/.git`
